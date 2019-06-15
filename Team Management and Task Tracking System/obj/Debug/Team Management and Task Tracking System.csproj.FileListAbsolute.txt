@@ -1,0 +1,25 @@
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\bin\Debug\Team Management and Task Tracking System.exe.config
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\bin\Debug\Team Management and Task Tracking System.exe
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\bin\Debug\Team Management and Task Tracking System.pdb
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\bin\Debug\MySql.Data.dll
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\bin\Debug\Google.Protobuf.dll
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\bin\Debug\MySql.Data.xml
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team Management and Task Tracking System.csprojAssemblyReference.cache
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.Properties.Resources.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team Management and Task Tracking System.csproj.GenerateResource.cache
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team Management and Task Tracking System.csproj.CoreCompileInputs.cache
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team Management and Task Tracking System.csproj.CopyComplete
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team Management and Task Tracking System.exe
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team Management and Task Tracking System.pdb
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.LoginForm.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.ManagerForm.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.EmployeeForm.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.ClientsForm.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.TasksForm.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.ActivitiesForm.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.CreateTaskForm.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.UpdateTaskForm.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.CreateActivityForm.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.UpdateActivityForm.resources
+C:\Users\Myrat\source\repos\Team Management and Task Tracking System\Team Management and Task Tracking System\obj\Debug\Team_Management_and_Task_Tracking_System.EmployeesAndRolesForm.resources
